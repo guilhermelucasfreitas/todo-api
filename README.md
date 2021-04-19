@@ -8,3 +8,5 @@ https://github.com/guilhermelucasfreitas/todo-with-facade-architecture
 
 ## Start server
 `npm start`
+
+Navigate to `http://localhost:3000/`
