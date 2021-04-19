@@ -1,12 +1,10 @@
-Backend in node.js of the all-facede-architecture project
+# Backend in node.js of the all-facede-architecture project
+
 Frontend in Angular:
 https://github.com/guilhermelucasfreitas/todo-with-facede-architecture
---------------------------------------
-RUN PROJECT 
---------------------------------------
 
-//Install dependencies
+## Install dependencies and 
 npm install
 
-//Start server
+## Start server
 npm start
