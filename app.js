@@ -8,6 +8,6 @@ const routes = require('./routes/todo-route')
 app.use(cors());
 app.use(routes);
 
-app.listen(8080, () => {
-    console.log("Server running on 8080: http://localhost:8080/");
+app.listen(3000, () => {
+    console.log("Server running on 3000: http://localhost:3000/");
 });
