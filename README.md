@@ -1,4 +1,4 @@
-# Backend in node.js of the all-facede-architecture project
+# Backend in node.js of the todo-with-facede-architecture project
 
 Frontend in Angular:
 https://github.com/guilhermelucasfreitas/todo-with-facade-architecture
